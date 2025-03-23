@@ -1,0 +1,776 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">  
+<svg width="278.515162mm" height="50.801000mm" viewBox="0 0 27851.516225 5080.100000"  
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <title> F-engrave Output </title>
+  <desc>SVG File Created By F-Engrave</desc>
+  <path d="M 2321.484478 1301.510221 L 2321.484478 5013.818009"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 2321.484478 5013.818009 L 1344.561114 5013.818009"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 1344.561114 5013.818009 L 1344.561114 1301.510221"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 1344.561114 1301.510221 L 0.050000 1301.510221"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 0.050000 1301.510221 L 0.050000 546.464426"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 0.050000 546.464426 L 3665.995592 546.464426"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 3665.995592 546.464426 L 3665.995592 1301.510221"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 3665.995592 1301.510221 L 2321.484478 1301.510221"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6759.861440 5080.050000 L 6570.271918 5073.012925"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6570.271918 5073.012925 L 6478.581967 5064.216706"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6478.581967 5064.216706 L 6388.961891 5051.901205"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6388.961891 5051.901205 L 6301.411191 5036.067911"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6301.411191 5036.067911 L 6215.930366 5016.715832"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6215.930366 5016.715832 L 6132.519415 4993.844967"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6132.519415 4993.844967 L 6051.178337 4967.455317"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6051.178337 4967.455317 L 5972.320612 4936.667805"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5972.320612 4936.667805 L 5896.360710 4902.258262"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5896.360710 4902.258262 L 5823.298631 4864.226688"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5823.298631 4864.226688 L 5753.133879 4822.573084"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5753.133879 4822.573084 L 5685.866951 4777.296951"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5685.866951 4777.296951 L 5621.497846 4728.399285"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5621.497846 4728.399285 L 5560.026068 4675.879090"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5560.026068 4675.879090 L 5501.452113 4619.737361"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5501.452113 4619.737361 L 5445.879227 4559.145156"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5445.879227 4559.145156 L 5393.410656 4494.930919"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5393.410656 4494.930919 L 5344.047391 4427.095148"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5344.047391 4427.095148 L 5297.788441 4355.636849"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5297.788441 4355.636849 L 5254.633806 4280.556519"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5254.633806 4280.556519 L 5214.584477 4201.854158"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5214.584477 4201.854158 L 5177.638967 4119.529766"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5177.638967 4119.529766 L 5143.798763 4033.583343"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5143.798763 4033.583343 L 5114.304799 3943.135317"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5114.304799 3943.135317 L 5088.743098 3848.961518"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5088.743098 3848.961518 L 5067.114654 3751.061946"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5067.114654 3751.061946 L 5049.417977 3649.437098"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5049.417977 3649.437098 L 5035.654061 3544.086973"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5035.654061 3544.086973 L 5025.822904 3435.011075"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5025.822904 3435.011075 L 5019.924012 3322.209405"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5019.924012 3322.209405 L 5017.957880 3205.682457"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5017.957880 3205.682457 L 5020.234741 3079.893197"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5020.234741 3079.893197 L 5027.064829 2959.174879"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5027.064829 2959.174879 L 5038.448142 2843.527505"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5038.448142 2843.527505 L 5054.385674 2732.951072"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5054.385674 2732.951072 L 5074.875936 2627.445086"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5074.875936 2627.445086 L 5099.919920 2527.010539"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5099.919920 2527.010539 L 5129.517627 2431.646439"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5129.517627 2431.646439 L 5163.668559 2341.353777"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5163.668559 2341.353777 L 5202.424341 2255.717587"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5202.424341 2255.717587 L 5244.181687 2174.324887"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5244.181687 2174.324887 L 5288.940103 2097.174683"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5288.940103 2097.174683 L 5336.699587 2024.267473"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5336.699587 2024.267473 L 5387.460141 1955.603752"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5387.460141 1955.603752 L 5441.222259 1891.182528"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5441.222259 1891.182528 L 5497.984950 1831.004297"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5497.984950 1831.004297 L 5557.749206 1775.069555"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5557.749206 1775.069555 L 5620.100557 1722.342374"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5620.100557 1722.342374 L 5684.625026 1673.444707"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5684.625026 1673.444707 L 5751.322615 1628.375562"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5751.322615 1628.375562 L 5820.193820 1587.135932"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5820.193820 1587.135932 L 5891.238144 1549.725321"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5891.238144 1549.725321 L 5964.455587 1516.143231"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5964.455587 1516.143231 L 6039.846150 1486.390656"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6039.846150 1486.390656 L 6117.410329 1460.467100"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6117.410329 1460.467100 L 6277.609132 1418.451143"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6277.609132 1418.451143 L 6440.291783 1388.439461"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6440.291783 1388.439461 L 6605.457787 1370.433048"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6605.457787 1370.433048 L 6773.107640 1364.430414"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6773.107640 1364.430414 L 6877.267959 1366.758898"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6877.267959 1366.758898 L 6977.806248 1373.744350"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6977.806248 1373.744350 L 7074.722506 1385.386770"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7074.722506 1385.386770 L 7168.016733 1401.686158"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7168.016733 1401.686158 L 7257.688432 1422.642513"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7257.688432 1422.642513 L 7343.738597 1448.255340"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7343.738597 1448.255340 L 7426.166234 1478.525632"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7426.166234 1478.525632 L 7504.972337 1513.452891"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7504.972337 1513.452891 L 7581.139226 1551.743075"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7581.139226 1551.743075 L 7653.994318 1593.759032"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7653.994318 1593.759032 L 7723.538107 1639.500762"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7723.538107 1639.500762 L 7789.770099 1688.967768"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7789.770099 1688.967768 L 7852.690788 1742.160547"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7852.690788 1742.160547 L 7912.299680 1799.078603"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7912.299680 1799.078603 L 7968.596773 1859.722431"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7968.596773 1859.722431 L 8021.582565 1924.091536"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8021.582565 1924.091536 L 8071.256559 1991.979427"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8071.256559 1991.979427 L 8117.619251 2063.179115"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8117.619251 2063.179115 L 8160.669648 2137.690106"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8160.669648 2137.690106 L 8200.409240 2215.512894"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8200.409240 2215.512894 L 8236.836537 2296.646985"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8236.836537 2296.646985 L 8269.953030 2381.092873"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8269.953030 2381.092873 L 8299.757227 2468.850560"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8299.757227 2468.850560 L 8326.250123 2559.919548"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8326.250123 2559.919548 L 8369.714991 2748.681121"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8369.714991 2748.681121 L 8400.761113 2947.377095"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8400.761113 2947.377095 L 8419.388985 3156.008464"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8419.388985 3156.008464 L 8425.598110 3374.574234"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8425.598110 3374.574234 L 8425.598110 3401.067130"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8425.598110 3401.067130 L 5994.880747 3401.067130"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5994.880747 3401.067130 L 5997.985558 3511.798927"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 5997.985558 3511.798927 L 6007.299494 3618.804951"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6007.299494 3618.804951 L 6022.822555 3722.085698"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6022.822555 3722.085698 L 6044.555237 3821.640673"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6044.555237 3821.640673 L 6073.945460 3914.572548"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6073.945460 3914.572548 L 6090.814187 3958.710001"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6090.814187 3958.710001 L 6109.131330 4001.295297"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6109.131330 4001.295297 L 6128.897384 4042.327940"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6128.897384 4042.327940 L 6150.112349 4081.808425"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6150.112349 4081.808425 L 6172.776227 4119.736754"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6172.776227 4119.736754 L 6196.889016 4156.112428"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6196.889016 4156.112428 L 6223.329793 4190.004751"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6223.329793 4190.004751 L 6251.323223 4222.137929"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6251.323223 4222.137929 L 6280.868811 4252.511466"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6280.868811 4252.511466 L 6311.967052 4281.125858"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6311.967052 4281.125858 L 6344.617450 4307.980610"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6344.617450 4307.980610 L 6378.820005 4333.076217"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6378.820005 4333.076217 L 6414.575214 4356.412679"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6414.575214 4356.412679 L 6451.882084 4377.989997"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6451.882084 4377.989997 L 6490.742104 4396.617869"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6490.742104 4396.617869 L 6531.153784 4412.761892"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6531.153784 4412.761892 L 6573.118118 4426.422066"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6573.118118 4426.422066 L 6616.634609 4437.598889"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6616.634609 4437.598889 L 6661.703258 4446.291862"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6661.703258 4446.291862 L 6708.324560 4452.500987"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6708.324560 4452.500987 L 6756.498019 4456.226760"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6756.498019 4456.226760 L 6806.224132 4457.468685"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6806.224132 4457.468685 L 6866.608854 4455.864408"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6866.608854 4455.864408 L 6925.234431 4451.052572"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6925.234431 4451.052572 L 6982.100864 4443.032183"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6982.100864 4443.032183 L 7037.208152 4431.803738"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7037.208152 4431.803738 L 7090.556296 4417.367237"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7090.556296 4417.367237 L 7142.144799 4399.722679"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7142.144799 4399.722679 L 7191.974157 4378.869569"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7191.974157 4378.869569 L 7240.043874 4354.808899"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7240.043874 4354.808899 L 7263.160444 4341.122417"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7263.160444 4341.122417 L 7285.320007 4326.556859"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7285.320007 4326.556859 L 7306.522067 4311.111232"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7306.522067 4311.111232 L 7326.766624 4294.786033"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7326.766624 4294.786033 L 7346.054175 4277.581261"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7346.054175 4277.581261 L 7364.384223 4259.496918"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7364.384223 4259.496918 L 7381.757265 4240.532505"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7381.757265 4240.532505 L 7398.173300 4220.689017"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7398.173300 4220.689017 L 7413.631336 4199.965460"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7413.631336 4199.965460 L 7428.132862 4178.362331"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7428.132862 4178.362331 L 7441.676886 4155.879630"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7441.676886 4155.879630 L 7454.263406 4132.517356"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7454.263406 4132.517356 L 7465.892920 4108.275510"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7465.892920 4108.275510 L 7476.564932 4083.153595"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7476.564932 4083.153595 L 7486.279937 4057.152605"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7486.279937 4057.152605 L 7495.037439 4030.271545"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7495.037439 4030.271545 L 8372.612318 4106.438435"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8372.612318 4106.438435 L 8356.779025 4144.832361"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8356.779025 4144.832361 L 8339.082348 4183.847249"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8339.082348 4183.847249 L 8319.523281 4223.483099"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8319.523281 4223.483099 L 8274.816488 4304.617189"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8274.816488 4304.617189 L 8222.659143 4388.235128"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8222.659143 4388.235128 L 8193.786140 4430.975789"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8193.786140 4430.975789 L 8163.619094 4473.612708"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8163.619094 4473.612708 L 8131.072438 4515.421677"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8131.072438 4515.421677 L 8096.145178 4556.402697"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8096.145178 4556.402697 L 8058.837812 4596.555767"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8058.837812 4596.555767 L 8019.150339 4635.881385"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8019.150339 4635.881385 L 7977.082760 4674.378556"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7977.082760 4674.378556 L 7885.806784 4748.889546"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7885.806784 4748.889546 L 7836.443023 4783.765183"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7836.443023 4783.765183 L 7784.388923 4817.191412"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7784.388923 4817.191412 L 7729.643987 4849.169225"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7729.643987 4849.169225 L 7672.208214 4879.698127"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7672.208214 4879.698127 L 7612.082103 4908.778116"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7612.082103 4908.778116 L 7549.265155 4936.409195"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7549.265155 4936.409195 L 7415.558751 4987.325113"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7415.558751 4987.325113 L 7345.187508 5009.057795"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7345.187508 5009.057795 L 7271.504468 5027.892158"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7271.504468 5027.892158 L 7194.509629 5043.829194"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7194.509629 5043.829194 L 7114.202991 5056.868902"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7114.202991 5056.868902 L 7030.585053 5067.010788"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7030.585053 5067.010788 L 6943.655316 5074.254850"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6943.655316 5074.254850 L 6853.414277 5078.601088"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6853.414277 5078.601088 L 6759.861440 5080.050000"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6759.861440 1950.584432 L 6724.365338 1951.360759"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6724.365338 1951.360759 L 6689.075726 1953.689243"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6689.075726 1953.689243 L 6653.993598 1957.569884"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6653.993598 1957.569884 L 6619.118458 1963.003179"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6619.118458 1963.003179 L 6584.449809 1969.988631"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6584.449809 1969.988631 L 6549.988643 1978.526240"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6549.988643 1978.526240 L 6515.733969 1988.616006"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6515.733969 1988.616006 L 6481.686778 2000.258426"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6481.686778 2000.258426 L 6448.984757 2012.780418"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6448.984757 2012.780418 L 6417.110189 2027.165296"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6417.110189 2027.165296 L 6386.064067 2043.413061"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6386.064067 2043.413061 L 6355.845895 2061.523216"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6355.845895 2061.523216 L 6326.455176 2081.496258"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6326.455176 2081.496258 L 6297.892902 2103.332186"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6297.892902 2103.332186 L 6270.158082 2127.031000"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6270.158082 2127.031000 L 6243.251212 2152.592205"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6243.251212 2152.592205 L 6218.155605 2179.240465"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6218.155605 2179.240465 L 6194.198180 2207.854858"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6194.198180 2207.854858 L 6171.378938 2238.435382"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6171.378938 2238.435382 L 6149.698375 2270.982038"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6149.698375 2270.982038 L 6129.155994 2305.495323"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6129.155994 2305.495323 L 6109.752292 2341.974740"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6109.752292 2341.974740 L 6091.486772 2380.420288"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6091.486772 2380.420288 L 6074.359435 2420.831969"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6074.359435 2420.831969 L 6058.732632 2463.261900"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6058.732632 2463.261900 L 6044.968716 2507.761706"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6044.968716 2507.761706 L 6033.067686 2554.331385"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6033.067686 2554.331385 L 6023.029542 2602.970442"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6023.029542 2602.970442 L 6014.854285 2653.679372"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6014.854285 2653.679372 L 6008.541418 2706.458176"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6008.541418 2706.458176 L 6004.091438 2761.306358"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6004.091438 2761.306358 L 6001.504343 2818.224414"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6001.504343 2818.224414 L 7524.842133 2818.224414"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7524.842133 2818.224414 L 7520.702385 2765.239118"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7520.702385 2765.239118 L 7514.907235 2713.909226"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7514.907235 2713.909226 L 7507.456185 2664.235232"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7507.456185 2664.235232 L 7498.349237 2616.216641"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7498.349237 2616.216641 L 7487.586389 2569.854446"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7487.586389 2569.854446 L 7475.167643 2525.147653"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7475.167643 2525.147653 L 7461.093493 2482.096759"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7461.093493 2482.096759 L 7445.363445 2440.701765"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7445.363445 2440.701765 L 7429.012435 2400.962669"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7429.012435 2400.962669 L 7411.419500 2362.878976"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7411.419500 2362.878976 L 7392.584641 2326.451679"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7392.584641 2326.451679 L 7372.508354 2291.679784"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7372.508354 2291.679784 L 7351.189646 2258.563788"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7351.189646 2258.563788 L 7328.629511 2227.103195"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7328.629511 2227.103195 L 7304.827451 2197.298997"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7304.827451 2197.298997 L 7279.783466 2169.150202"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7279.783466 2169.150202 L 7254.377130 2142.709426"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7254.377130 2142.709426 L 7227.832612 2118.027297"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7227.832612 2118.027297 L 7200.149414 2095.104810"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7200.149414 2095.104810 L 7171.328034 2073.941467"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7171.328034 2073.941467 L 7141.368472 2054.537764"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7141.368472 2054.537764 L 7110.270728 2036.893207"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7110.270728 2036.893207 L 7078.034304 2021.007794"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7078.034304 2021.007794 L 7044.659202 2006.881526"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7044.659202 2006.881526 L 7011.232973 1993.686949"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 7011.232973 1993.686949 L 6977.185286 1982.251516"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6977.185286 1982.251516 L 6942.517133 1972.575725"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6942.517133 1972.575725 L 6907.228018 1964.658581"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6907.228018 1964.658581 L 6871.317444 1958.501079"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6871.317444 1958.501079 L 6834.786405 1954.103218"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6834.786405 1954.103218 L 6797.634404 1951.464004"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6797.634404 1951.464004 L 6759.861440 1950.584432"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 12009.581290 5013.818009 L 10896.882642 5013.818009"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 10896.882642 5013.818009 L 9549.059730 1430.662406"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 9549.059730 1430.662406 L 10532.606193 1430.662406"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 10532.606193 1430.662406 L 11224.731298 3490.480219"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11224.731298 3490.480219 L 11239.840384 3540.982162"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11239.840384 3540.982162 L 11271.300481 3646.953746"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11271.300481 3646.953746 L 11287.651491 3702.422890"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11287.651491 3702.422890 L 11304.002502 3757.064581"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11304.002502 3757.064581 L 11335.463095 3866.347466"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11335.463095 3866.347466 L 11350.572181 3920.988660"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11350.572181 3920.988660 L 11365.267292 3975.216376"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11365.267292 3975.216376 L 11393.416087 4081.187463"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11393.416087 4081.187463 L 11406.869275 4132.931331"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11406.869275 4132.931331 L 11421.357895 4183.019299"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11421.357895 4183.019299 L 11435.018069 4230.623915"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11435.018069 4230.623915 L 11447.850294 4275.744186"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11447.850294 4275.744186 L 11459.855066 4318.381105"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11459.855066 4318.381105 L 11470.410926 4277.400085"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11470.410926 4277.400085 L 11482.208214 4233.935217"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11482.208214 4233.935217 L 11495.247923 4187.986996"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11495.247923 4187.986996 L 11509.529060 4139.554431"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11509.529060 4139.554431 L 11524.431159 4087.810563"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11524.431159 4087.810563 L 11554.235853 3981.839476"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11554.235853 3981.839476 L 11569.137951 3927.611760"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11569.137951 3927.611760 L 11585.695949 3872.970566"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11585.695949 3872.970566 L 11618.811945 3763.687680"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11618.811945 3763.687680 L 11635.369943 3709.045990"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11635.369943 3709.045990 L 11653.376852 3655.025757"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11653.376852 3655.025757 L 11688.148747 3550.710073"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11688.148747 3550.710073 L 11704.913733 3500.415117"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 11704.913733 3500.415117 L 12423.531733 1430.662406"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 12423.531733 1430.662406 L 13397.143299 1430.662406"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 13397.143299 1430.662406 L 12009.581290 5013.818009"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16580.422235 2059.867317 L 16580.422235 5013.818009"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16580.422235 5013.818009 L 15653.173362 5013.818009"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15653.173362 5013.818009 L 15653.173362 2059.867317"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15653.173362 2059.867317 L 14805.402680 2059.867317"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 14805.402680 2059.867317 L 14805.402680 1430.662406"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 14805.402680 1430.662406 L 15653.173362 1430.662406"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15653.173362 1430.662406 L 15653.173362 1155.799542"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15653.173362 1155.799542 L 15656.692148 1053.139756"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15656.692148 1053.139756 L 15667.247511 950.479971"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15667.247511 950.479971 L 15684.840446 847.820186"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15684.840446 847.820186 L 15709.470456 745.160897"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15709.470456 745.160897 L 15725.873585 694.451966"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15725.873585 694.451966 L 15745.277287 644.984464"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15745.277287 644.984464 L 15767.682555 596.759382"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15767.682555 596.759382 L 15793.088395 549.776224"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15793.088395 549.776224 L 15821.495800 504.034494"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15821.495800 504.034494 L 15852.904273 459.534689"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15852.904273 459.534689 L 15887.314313 416.276808"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15887.314313 416.276808 L 15924.724924 374.260851"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15924.724924 374.260851 L 15965.447334 333.849171"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15965.447334 333.849171 L 16009.791775 295.403622"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16009.791775 295.403622 L 16057.758247 258.924205"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16057.758247 258.924205 L 16109.346749 224.410921"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16109.346749 224.410921 L 16164.557283 191.864264"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16164.557283 191.864264 L 16223.390344 161.283740"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16223.390344 161.283740 L 16285.844940 132.669348"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16285.844940 132.669348 L 16351.921567 106.021087"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16351.921567 106.021087 L 16422.241683 81.184090"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16422.241683 81.184090 L 16497.425259 59.658892"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16497.425259 59.658892 L 16577.473286 41.444995"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16577.473286 41.444995 L 16662.384772 26.542399"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16662.384772 26.542399 L 16752.160213 14.952099"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16752.160213 14.952099 L 16846.799609 6.673100"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16846.799609 6.673100 L 16946.302961 1.705403"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16946.302961 1.705403 L 17050.670268 0.050000"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17050.670268 0.050000 L 17215.422298 1.912390"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17215.422298 1.912390 L 17371.895824 7.501049"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17371.895824 7.501049 L 17520.089855 16.814985"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17520.089855 16.814985 L 17660.005384 29.854198"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17660.005384 29.854198 L 17792.676354 44.963284"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17792.676354 44.963284 L 17915.826898 60.486345"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17915.826898 60.486345 L 18029.456022 76.423877"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 18029.456022 76.423877 L 18082.700424 84.547511"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 18082.700424 84.547511 L 18133.564719 92.774887"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 18133.564719 92.774887 L 18133.564719 702.110003"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 18133.564719 702.110003 L 18027.386148 689.484269"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 18027.386148 689.484269 L 17803.853177 667.959070"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17803.853177 667.959070 L 17686.498280 659.059109"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17686.498280 659.059109 L 17568.729408 650.366136"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17568.729408 650.366136 L 17331.949741 640.431238"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17331.949741 640.431238 L 17212.938945 639.189313"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17212.938945 639.189313 L 17166.006914 639.861898"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17166.006914 639.861898 L 17121.248499 641.880149"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17121.248499 641.880149 L 17078.663699 645.243570"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17078.663699 645.243570 L 17038.251522 649.952161"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17038.251522 649.952161 L 17000.012961 656.005921"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 17000.012961 656.005921 L 16963.947519 663.405348"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16963.947519 663.405348 L 16930.055196 672.149944"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16930.055196 672.149944 L 16898.336489 682.240207"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16898.336489 682.240207 L 16868.480173 693.571898"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16868.480173 693.571898 L 16840.176510 706.042267"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16840.176510 706.042267 L 16813.425004 719.650819"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16813.425004 719.650819 L 16788.225655 734.398049"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16788.225655 734.398049 L 16764.578463 750.283462"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16764.578463 750.283462 L 16742.483925 767.307058"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16742.483925 767.307058 L 16721.941544 785.469332"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16721.941544 785.469332 L 16702.951817 804.769292"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16702.951817 804.769292 L 16686.238454 824.380478"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16686.238454 824.380478 L 16670.870758 845.129846"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16670.870758 845.129846 L 16656.848231 867.017397"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16656.848231 867.017397 L 16644.170875 890.043130"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16644.170875 890.043130 L 16632.838688 914.207542"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16632.838688 914.207542 L 16622.852167 939.510633"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16622.852167 939.510633 L 16614.211313 965.951409"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16614.211313 965.951409 L 16606.915131 993.530865"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16606.915131 993.530865 L 16595.324831 1050.034946"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16595.324831 1050.034946 L 16587.045832 1110.264799"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16587.045832 1110.264799 L 16582.078135 1174.220426"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16582.078135 1174.220426 L 16580.422235 1241.901329"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16580.422235 1241.901329 L 16580.422235 1430.662406"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16580.422235 1430.662406 L 18047.462931 1430.662406"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 18047.462931 1430.662406 L 18047.462931 2059.867317"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 18047.462931 2059.867317 L 16580.422235 2059.867317"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 21783.779890 4384.613097 L 22952.776128 4384.613097"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 22952.776128 4384.613097 L 22952.776128 5013.818009"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 22952.776128 5013.818009 L 19545.135898 5013.818009"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 19545.135898 5013.818009 L 19545.135898 4384.613097"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 19545.135898 4384.613097 L 20853.219219 4384.613097"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 20853.219219 4384.613097 L 20853.219219 2059.867317"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 20853.219219 2059.867317 L 19892.854350 2059.867317"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 19892.854350 2059.867317 L 19892.854350 1430.662406"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 19892.854350 1430.662406 L 21783.779890 1430.662406"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 21783.779890 1430.662406 L 21783.779890 4384.613097"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 20853.219219 784.899992 L 20853.219219 99.397987"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 20853.219219 99.397987 L 21783.779890 99.397987"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 21783.779890 99.397987 L 21783.779890 784.899992"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 21783.779890 784.899992 L 20853.219219 784.899992"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 26834.803766 5013.818009 L 25877.750199 3391.132232"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 25877.750199 3391.132232 L 25477.045956 3669.306894"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 25477.045956 3669.306894 L 25477.045956 5013.818009"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 25477.045956 5013.818009 L 24546.485284 5013.818009"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 24546.485284 5013.818009 L 24546.485284 99.397987"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 24546.485284 99.397987 L 25477.045956 99.397987"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 25477.045956 99.397987 L 25477.045956 2914.261099"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 25477.045956 2914.261099 L 26755.325079 1430.662406"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 26755.325079 1430.662406 L 27755.429540 1430.662406"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 27755.429540 1430.662406 L 26497.020213 2828.159312"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 26497.020213 2828.159312 L 27851.466225 5013.818009"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 27851.466225 5013.818009 L 26834.803766 5013.818009"
+        fill="none" stroke="blue" stroke-width="0.100000" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
